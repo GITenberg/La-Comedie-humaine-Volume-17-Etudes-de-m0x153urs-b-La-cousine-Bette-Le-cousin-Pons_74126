@@ -1,0 +1,41 @@
+_repo: La-Comedie-humaine-Volume-17-Etudes-de-m0x153urs-b-La-cousine-Bette-Le-cousin-Pons_74126
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Balzac, Honoré de
+    aliases:
+    - Balzac, Honore de
+    - Saint-Aubin, Horace de
+    - De Balzac, Honoré
+    - Balzac, H. de (Honoré de)
+    birthdate: 1799
+    deathdate: 1850
+    gutenberg_agent_id: '251'
+    url: http://www.gutenberg.org/2009/agents/251
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Honor%C3%A9_de_Balzac
+    - https://en.wikipedia.org/wiki/Honor%C3%A9_de_Balzac
+description: ''
+gutenberg_issued: '2024-07-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74126'
+language: fr
+pgterms:marc904: https://archive.org/details/1874oeuvrescom17balzuoft/page/n7/mode/2up
+pgterms:marc905: 20230910124632debalzac
+pgterms:marc906: '1863'
+pgterms:marc907: FR
+production_note: Claudine Corbasson, Hans Pieterse and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/Canadian Libraries)
+publication_note: '  $aParis :$bVeuve Alexandre Houssiaux, $c1863.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'France -- Social life and customs -- 19th century -- Fiction'
+- !lcc 'PQ'
+- GITenberg
+title: 'La Comédie humaine - Volume 17. Études de mœurs : $b La cousine Bette; Le
+  cousin Pons'
+url: http://www.gutenberg.org/ebooks/74126
